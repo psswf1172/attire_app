@@ -49,4 +49,5 @@ gem 'rails_12factor', group: :production
 gem 'puma'
 # install boostrap
 gem 'bootstrap-sass'
+
 ruby '2.2.3'
